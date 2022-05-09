@@ -1,0 +1,174 @@
+** Drc report for /Users/ashwin.balachandran/projs/ergogan/Untitled/Untitled.kicad_pcb **
+** Created on 2022-05-09 12:23:05 **
+
+** Found 41 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0750 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; Severity: error
+    @(39.7290 mm, -73.1791 mm): Arc on Edge.Cuts
+    @(41.6952 mm, -73.7164 mm): Track [GND] on B.Cu, length 12.5580 mm
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(5.9389 mm, -37.8265 mm): Through hole pad (NPTH, Mechanical) of S5
+    @(7.8230 mm, -35.7018 mm): Through hole pad (NPTH, Mechanical) of S5
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(0.4627 mm, -33.7296 mm): Through hole pad (NPTH, Mechanical) of S5
+    @(1.0320 mm, -36.5117 mm): Through hole pad (NPTH, Mechanical) of S5
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(70.1880 mm, -63.7635 mm): Through hole pad (NPTH, Mechanical) of S23
+    @(71.6745 mm, -66.1832 mm): Through hole pad (NPTH, Mechanical) of S23
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(76.7352 mm, -65.7404 mm): Through hole pad (NPTH, Mechanical) of S23
+    @(77.7790 mm, -63.0994 mm): Through hole pad (NPTH, Mechanical) of S23
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(5.4319 mm, -20.0910 mm): Through hole pad (NPTH, Mechanical) of S3
+    @(4.8626 mm, -17.3088 mm): Through hole pad (NPTH, Mechanical) of S3
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(10.3388 mm, -21.4058 mm): Through hole pad (NPTH, Mechanical) of S3
+    @(12.2229 mm, -19.2810 mm): Through hole pad (NPTH, Mechanical) of S3
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(47.9771 mm, -37.8419 mm): Through hole pad (NPTH, Mechanical) of S13
+    @(46.7071 mm, -35.3019 mm): Through hole pad (NPTH, Mechanical) of S13
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(54.3271 mm, -35.3019 mm): Through hole pad (NPTH, Mechanical) of S13
+    @(53.0571 mm, -37.8419 mm): Through hole pad (NPTH, Mechanical) of S13
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(9.8318 mm, -3.6702 mm): Through hole pad (NPTH, Mechanical) of S1
+    @(9.2625 mm, -0.8881 mm): Through hole pad (NPTH, Mechanical) of S1
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(16.6229 mm, -2.8603 mm): Through hole pad (NPTH, Mechanical) of S1
+    @(14.7387 mm, -4.9850 mm): Through hole pad (NPTH, Mechanical) of S1
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(23.4215 mm, -61.4650 mm): Through hole pad (NPTH, Mechanical) of S11
+    @(24.4653 mm, -64.1060 mm): Through hole pad (NPTH, Mechanical) of S11
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(29.5260 mm, -64.5488 mm): Through hole pad (NPTH, Mechanical) of S11
+    @(31.0125 mm, -62.1292 mm): Through hole pad (NPTH, Mechanical) of S11
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(84.8009 mm, 7.7158 mm): Through hole pad (NPTH, Mechanical) of S31
+    @(86.8631 mm, 5.7634 mm): Through hole pad (NPTH, Mechanical) of S31
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.6367 mm, 7.5008 mm): Through hole pad (NPTH, Mechanical) of S31
+    @(91.9614 mm, 10.3220 mm): Through hole pad (NPTH, Mechanical) of S31
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(95.9743 mm, -41.5984 mm): Through hole pad (NPTH, Mechanical) of S27
+    @(94.9305 mm, -44.2395 mm): Through hole pad (NPTH, Mechanical) of S27
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(88.3833 mm, -42.2626 mm): Through hole pad (NPTH, Mechanical) of S27
+    @(89.8698 mm, -44.6822 mm): Through hole pad (NPTH, Mechanical) of S27
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(96.4121 mm, -61.1748 mm): Through hole pad (NPTH, Mechanical) of S29
+    @(97.4559 mm, -58.5338 mm): Through hole pad (NPTH, Mechanical) of S29
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(91.3514 mm, -61.6175 mm): Through hole pad (NPTH, Mechanical) of S29
+    @(89.8649 mm, -59.1979 mm): Through hole pad (NPTH, Mechanical) of S29
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(75.2535 mm, -48.8051 mm): Through hole pad (NPTH, Mechanical) of S21
+    @(76.2973 mm, -46.1641 mm): Through hole pad (NPTH, Mechanical) of S21
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(68.7063 mm, -46.8282 mm): Through hole pad (NPTH, Mechanical) of S21
+    @(70.1928 mm, -49.2479 mm): Through hole pad (NPTH, Mechanical) of S21
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(94.4926 mm, -24.6631 mm): Through hole pad (NPTH, Mechanical) of S25
+    @(93.4488 mm, -27.3042 mm): Through hole pad (NPTH, Mechanical) of S25
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(88.3882 mm, -27.7469 mm): Through hole pad (NPTH, Mechanical) of S25
+    @(86.9016 mm, -25.3273 mm): Through hole pad (NPTH, Mechanical) of S25
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(47.9771 mm, -54.8419 mm): Through hole pad (NPTH, Mechanical) of S15
+    @(46.7071 mm, -52.3019 mm): Through hole pad (NPTH, Mechanical) of S15
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(53.0571 mm, -54.8419 mm): Through hole pad (NPTH, Mechanical) of S15
+    @(54.3271 mm, -52.3019 mm): Through hole pad (NPTH, Mechanical) of S15
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(32.4893 mm, -30.6782 mm): Through hole pad (NPTH, Mechanical) of S7
+    @(33.9758 mm, -28.2585 mm): Through hole pad (NPTH, Mechanical) of S7
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(27.4286 mm, -30.2354 mm): Through hole pad (NPTH, Mechanical) of S7
+    @(26.3848 mm, -27.5944 mm): Through hole pad (NPTH, Mechanical) of S7
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(31.0076 mm, -47.6135 mm): Through hole pad (NPTH, Mechanical) of S9
+    @(32.4941 mm, -45.1938 mm): Through hole pad (NPTH, Mechanical) of S9
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(25.9469 mm, -47.1707 mm): Through hole pad (NPTH, Mechanical) of S9
+    @(24.9031 mm, -44.5297 mm): Through hole pad (NPTH, Mechanical) of S9
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(67.2247 mm, -29.8929 mm): Through hole pad (NPTH, Mechanical) of S19
+    @(68.7112 mm, -32.3126 mm): Through hole pad (NPTH, Mechanical) of S19
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(74.8157 mm, -29.2288 mm): Through hole pad (NPTH, Mechanical) of S19
+    @(73.7719 mm, -31.8698 mm): Through hole pad (NPTH, Mechanical) of S19
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(109.8343 mm, 19.3891 mm): Through hole pad (NPTH, Mechanical) of S33
+    @(110.0044 mm, 16.5544 mm): Through hole pad (NPTH, Mechanical) of S33
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(105.6050 mm, 14.0144 mm): Through hole pad (NPTH, Mechanical) of S33
+    @(103.2352 mm, 15.5791 mm): Through hole pad (NPTH, Mechanical) of S33
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(47.9771 mm, -71.8419 mm): Through hole pad (NPTH, Mechanical) of S17
+    @(46.7071 mm, -69.3019 mm): Through hole pad (NPTH, Mechanical) of S17
+[hole_near_hole]: Drilled holes too close together (board setup constraints min 0.2495 mm; actual 0.0000 mm)
+    Rule: board setup constraints; Severity: error
+    @(53.0571 mm, -71.8419 mm): Through hole pad (NPTH, Mechanical) of S17
+    @(54.3271 mm, -69.3019 mm): Through hole pad (NPTH, Mechanical) of S17
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; Severity: error
+    @(91.2423 mm, 26.0655 mm): Arc on Edge.Cuts
+    @(8.0126 mm, 14.4997 mm): Line on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; Severity: error
+    @(-6.9989 mm, -41.5240 mm): Line on Edge.Cuts
+    @(-6.7401 mm, -40.5580 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; Severity: error
+    @(90.3872 mm, 28.4148 mm): Arc on Edge.Cuts
+    @(91.2423 mm, 26.0655 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; Severity: error
+    @(85.5627 mm, -69.5723 mm): Arc on Edge.Cuts
+    @(85.5191 mm, -69.0742 mm): Line on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; Severity: error
+    @(85.6063 mm, -70.0704 mm): Arc on Edge.Cuts
+    @(85.5627 mm, -69.5723 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; Severity: error
+    @(17.5139 mm, -69.4405 mm): Arc on Edge.Cuts
+    @(17.0158 mm, -69.3969 mm): Arc on Edge.Cuts
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
