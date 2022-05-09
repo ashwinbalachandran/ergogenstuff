@@ -2,6 +2,9 @@
 
 Just a repo to save any files related to the ergogen based keyboard I'm trying to build off of https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux
 
+## Notes
+The `adux_mod.yml` is not the exact yml that's in the image below, cause of the changes I made in Kicad.
+
 ## Changes from the original A.dux
 - Changed footprint to `mx`
 - Changed the spread and stagger for some columns
