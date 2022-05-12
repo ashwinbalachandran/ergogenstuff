@@ -14,5 +14,10 @@ The `adux_mod.yml` is not the exact yml that's in the image below, cause of the 
     - randomly moved the "empty circles" to edges of the pcb
     - slightly changed the edges of the pcb
 
-## Current status in Kicad(has a bunch of drilled holes too close and another error):
-<img width="1117" alt="image" src="https://user-images.githubusercontent.com/18424078/167480842-fb25b21d-0fe9-4d27-bc52-9c168a903a8d.png">
+## Issues fixed
+https://github.com/ashwinbalachandran/ergogenstuff/issues/1
+
+## Current status in Kicad
+Fixed all errors & warning thanks to @duckyb
+
+![image](https://user-images.githubusercontent.com/18424078/168134927-c6d49219-008d-4864-a15d-4ffe007cff6b.png)
