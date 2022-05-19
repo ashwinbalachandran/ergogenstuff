@@ -1,3 +1,5 @@
+units:
+  U: 19.05
 points:
   zones:
     matrix:
@@ -32,7 +34,7 @@ points:
               bind: [0, 5, 0, 0]
               column_net: P0
         middle:
-          spread: 19
+          spread: 1.1U
           stagger: 17/3
           rotate: -5
           origin: [0, -17]
@@ -49,7 +51,7 @@ points:
           key:
             shift: [0.2, 0]
         index:
-          spread: 19
+          spread: 1.1U
           stagger: -17/3
           rotate: -5
           origin: [0, -17]
@@ -64,7 +66,7 @@ points:
               bind: [0, 0, 0, 6]
               column_net: P16
         inner:
-          spread: 20
+          spread: 1.11U
           stagger: -17/6
           origin: [0, -17]
           rows: 
@@ -100,9 +102,9 @@ points:
                 reverse: true
       rows:
         bottom:
-          padding: 17
+          padding: 1U
         home:
-          padding: 17
+          padding: 1U
         top:
     thumb:
       anchor:
@@ -116,7 +118,7 @@ points:
               column_net: P8
               bind: [10, 1, 0, 70]
         second:
-          spread: 18
+          spread: 1.1U
           rotate: -10
           origin: [-9, -9.5]
           rows:
@@ -125,7 +127,7 @@ points:
               bind: [0, 0, 0, 5]
       rows:
         only:
-          padding: 17
+          padding: 1.1U
       key:
         footprints:
           mx_hotswap:
@@ -197,4 +199,3 @@ pcbs:
         params:
           reverse: true
           symmetric: true
-
